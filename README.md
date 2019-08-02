@@ -1,6 +1,5 @@
 # gitTest
 
-change master rebase1 test1
 
 change rebase commit1 in test3
 
