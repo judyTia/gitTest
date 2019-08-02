@@ -1,11 +1,15 @@
 # gitTest
 
+
 C5 
 
 
 C4
 
 c4'
+
+C4
+
 change rebase commit1 in test3
 
 
