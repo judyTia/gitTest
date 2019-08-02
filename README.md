@@ -1,6 +1,6 @@
 # gitTest
 
-change another commit2 in test2
+change master rebase1
 change another commit in test2
 
 
