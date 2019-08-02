@@ -1,4 +1,7 @@
 # gitTest
+
+C2 
+
 change rebase commit1 in test3
 
 
