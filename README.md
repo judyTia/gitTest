@@ -1,4 +1,5 @@
 # gitTest
+change master rebase1 test1
 
 change master rebase1
 change another commit in test2
