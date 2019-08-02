@@ -1,7 +1,17 @@
 # gitTest
+
 C3
 
 C2 
+
+
+
+C4
+
+C5 
+
+C7
+
 
 change rebase commit1 in test3
 
